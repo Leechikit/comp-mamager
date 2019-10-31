@@ -1,1 +1,1 @@
-# comp-mamager
+# component-system
